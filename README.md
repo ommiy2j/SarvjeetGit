@@ -12,6 +12,9 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvjeetGit&layout=compact&theme=dark">
  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 **Languages and Tools:**  
