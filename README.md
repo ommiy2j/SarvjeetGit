@@ -3,7 +3,7 @@
 ## Hola <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SarvjeetGit&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22imKashyap" /> </p>
 
-* I am Sarvjeet Kumar. I have worked on . I also have repositories with problems solved over different domains of competitive coding mostly in java.
+* I am Sarvjeet Kumar. I have worked on several mini projects as front end web developer. I also have repositories with problems solved over different domains of competitive coding mostly in python.
 * I am a 3rd year undergraduate under the department of Electrical & Electronics Engineering in IEM, Kolkata.
 
 ***
