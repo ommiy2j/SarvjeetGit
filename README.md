@@ -42,7 +42,7 @@ Markdown   16 mins         ██▒░░░░░░░░░░░░░░�
 
 -  🔭 I’m currently working on developing my react skills.
 
--  🌱 I'm am simultaneously trying to enhance my competitive coding skills
+-  🌱 I'm simultaneously trying to enhance my competitive coding skills
 
 -  👯 I’m looking to collaborate on projects for my **Country India**.
 
