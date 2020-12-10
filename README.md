@@ -51,7 +51,7 @@ Markdown   16 mins         ██▒░░░░░░░░░░░░░░�
 -  😄 Pronouns: He/His
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Sarvjeet_Kumar-2867B2?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/sarvjeet-kumar-65470a184/)
+[![LinkedIn](https://img.shields.io/badge/-Sarvjeet_Kumar-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sarvjeet-kumar-65470a184/)
 [![Twitter](https://img.shields.io/badge/_call_me_jeet-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/_call_me_jeet)
 [![Instagram](https://img.shields.io/badge/_sarvjeet.kumar_-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_sarvjeet.kumar_/)
 [![Gmail](https://img.shields.io/badge/-Sarvjeet_Kumar-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:sarvjeetrocks@gmail.com)
